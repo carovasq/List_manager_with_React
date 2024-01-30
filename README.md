@@ -9,8 +9,8 @@ La institución educativa para la que presentaste una primera propuesta de admin
 
 
 ### Requisitos mínimos:
-- [ ] Generar una lista de alumnos
-- [ ] Los registros se añaden mediante formulario con los siguientes campos:
++ [ ] Generar una lista de alumnos
++ [ ] Los registros se añaden mediante formulario con los siguientes campos:
   - [ ] Nombre
   - [ ] Apellido 1
   - [ ] Apellido 2
