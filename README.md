@@ -45,6 +45,47 @@ La institución educativa para la que presentaste una primera propuesta de admin
 ### Criterios de rendimiento
 El resultado final debe ser una interfaz de usuario construida con React, con manejo de estados y eventos y procesamiento de datos según  según lo aprendido en clase, que permita hacer CRUD de registros a una fake API 
 
+## ... Antes de empezar
+### Instalación de Node.js y npm
+En este proyecto, utilizaremos nuevas tecnologías que no dimos uso en los anterior proyectos del BootCamp. Para comenzar, tenemos que tener instalados Node.js y npm. Comprueba si los tienes, ejecutando Git Bash y usa estos comandos:
+```console
+which node
+```
+```console
+which npm
+```
+Si no los tienes, instalalos usando el siguiente link: [Node.js](https://nodejs.org/ "Página oficial de Node").
+
+### Ejecución de Node.js y npm
+Crea un proyecto haciendo uso de node.js y npm, Gestor de paquetes para los proyectos de Node.js.
+1. Posicionarnos en la carpeta adecuada.
+```console
+cd name_directory/
+```
+
+2. Crear un nuevo proyecto Vite (entorno de desarrollo rápido para aplicaciones web basadas en JavaScript o TypeScript).
+```console
+npm create vite@latest
+```
+
+3. Te pedirá información de tu nuevo proyecto:nombre del proyecto. Elegimos framework React y el lenguaje JavaScript.
+```console
+? Project name: » name_directory_project
+```
+
+4. Acceder a la carpeta del proyecto y dentro del mismo, installar las dependencias.
+```console
+cd name_directory_project/
+```
+```console
+npm install
+```
+
+5. Ejecutar el proyecto en modo de desarrollo. Te iniciará el servidor de desarrollo y te permitirá ver tu aplicación en un navegador.
+```console
+npm run dev
+```
+
 
 ## ¡Comencemos!
 ### Acceder al Proyecto
