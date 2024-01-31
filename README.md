@@ -115,3 +115,6 @@ npm install
 
 5. JSON
 6. Ejecuta el proyecto
+```console
+npm run dev
+```
