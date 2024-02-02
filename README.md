@@ -108,17 +108,28 @@ git clone https://github.com/carovasq/List_manager_with_React.git
 cd List_manager_with_React
 ```
 
-4. Instala los paquetes
+4. Instala los paquetes: npm, json, axios y react-hook-form
 ```console
 npm install
 ```
 
-5. JSON
 ```console
 npm install -g json-server
 ```
 
-6. Ejecuta el proyecto
+```console
+npm install react-hook-form
+```
+
+```console
+npm install axios
+```
+
+5. Ejecuta el proyecto
 ```console
 npm run dev
+```
+
+```console
+npm run start
 ```
