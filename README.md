@@ -114,6 +114,10 @@ npm install
 ```
 
 5. JSON
+```console
+npm install -g json-server
+```
+
 6. Ejecuta el proyecto
 ```console
 npm run dev
