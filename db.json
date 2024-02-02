@@ -1,0 +1,14 @@
+{
+    "User": [
+        {
+            "id": 1,
+            "name": "Carito",
+            "apellido": "Vasquez"
+        },
+        {
+            "id": 1,
+            "name": "Caro",
+            "apellido": "Castro"
+        }
+    ]
+}

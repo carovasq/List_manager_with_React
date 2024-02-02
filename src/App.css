@@ -1,0 +1,92 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  color: #212529;
+  background-image:url(./img/imagen-fondo-home.png);
+  font-family: Lato, sans-serif;
+  margin-top: 40px;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+
+/* FORM */
+form{
+  background-color: #fbf9f9;
+  width: 85%;
+  padding: 1rem 3rem 1.5rem 3rem;
+  margin: 52px 0px;
+  border-radius: 23px;
+}
+
+h1 {
+  font-size: 25px;
+  font-family: Roboto, sans-serif;
+  text-align: center;
+  margin: 20px 0;
+}
+
+label{
+  width: 50%;
+  display: inline-block;
+}
+
+input{
+  display: block;
+  width: 95%;
+  padding: 0.37rem 0.75rem;
+  border: 1px solid #dee2e6;
+  border-radius: 5px;
+}
+
+/* Logo */
+
+.logo-contenedor {
+  width: 100%;
+  margin: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.logo {
+  width: 152px;
+  height: 125px;
+}
+
+/* TABLE */
+
+table {
+  width: 85%;
+  min-height: 500px;
+  background-color: #022332;
+  color: white;
+  padding: 25px;
+  margin-bottom: 10%;
+  border-radius: 23px;
+}
+
+button{
+  width: 50%;
+  border: none;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 1.5rem 0px;
+  background-color: #229A9B;
+  color: white;
+  height: 38px;
+  border-radius: 4px;
+}
+
+
+@media screen and (max-width:900px) {
+  form, table {
+    width:95%;
+  }
+  
+}
